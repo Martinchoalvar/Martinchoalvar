@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 #### 🔧 Languages
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,cs,python,bash&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,python&theme=dark)](https://skillicons.dev)
 
 #### 🖥️ Frameworks
 
