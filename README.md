@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 #### 🖥️ Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=dotnet,nodejs&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs&theme=dark)](https://skillicons.dev)
 
 
 #### 🔧 Tools
-[![My Skills](https://skillicons.dev/icons?i=windows,linux,ubuntu,vscode,git,github,docker,gcp,discord,notion,blender&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=windows,vscode,git,github,discord,blender&theme=dark)](https://skillicons.dev)
